@@ -4,7 +4,7 @@ description: 	A test development site that will host education materials that su
 #use this when pushing to git for live version
 
 url:           http://lwasser.github.io/08-09-2015_NEON_ESA2015/
-baseurl:http://lwasser.github.io/08-09-2015_NEON_ESA2015/
+baseurl:	http://lwasser.github.io/08-09-2015_NEON_ESA2015/
 
 #use this when working locally
 #url: http://localhost:4000
@@ -16,7 +16,7 @@ disqus_shortname: neondataskills
 
 # Owner/author information
 owner: 		
-  name: NEON EDUCATION
+  name: NEON Workshops
   avatar: profilePic_circle.png
   bio: "Devoted to open data and open source in science and education."
   email: "lwasser@neoninc.org"

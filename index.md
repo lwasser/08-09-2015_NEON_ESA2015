@@ -37,6 +37,8 @@ After completing this activity, you will:
 </div>
 
 ##SCHEDULE
+
+
 | Time        | Topic         | Instructor | Download Data |
 |-------------|---------------|------------|---------------|
 | 8:30-9      | Setup / Intro | ??         |               |

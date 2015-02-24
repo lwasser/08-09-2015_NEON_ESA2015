@@ -8,30 +8,58 @@ image:
   creditlink: http://www.neoninc.org
 ---
 
+#A Hands-on Primer for Working with Big Data in R: Introduction to Common Formats & Efficient Data Visualization
+##A NEON Data Carpentry Workshop
+
 <div id="objectives">
-<h2>A NEON Data Carpentry Workshop</h2>
-Date: 9 August 2015, 8:30AM - 5PM
-Instructors: Leah Wasser, ???
-Assistants: Natalie Robinson, Claire Lunch, Kate Thibault
-Special Thanks to Content Contributors: Tristan Goulden
 
-<h2>A Hands-on Primer for Working with Big Data in R: Introduction to Common Formats & Efficient Data Visualization</h2>
+<p><Strong>Date:</Strong> 9 August 2015, 8:30AM - 5PM </p>
+<Strong>Instructors:</Strong> 
+<ul>
+<li>Leah Wasser, Senior Scientist, NEON Education / Data Products </li>
+<li>does anyone else want to actually teach? OR just assist? open to whatever! </li>
+</ul>
 
-This workshop will providing hands on experience with working hierarchical data formats(HDF5), and lidar data in R. It will also cover spatial data analysis in R.
+<Strong>Assistants:</Strong> 
+<ul>
+<li>Natalie Robinson</li>
+<li>Claire Lunch, NEON Staff Scientist, Data Products</li> 
+<li>Kate Thibault, NEON Senior Scientist, FSU</li>
+<li>Mike Smorul, SESYNC</li>
+<li>Ian Munoz, SESYNC</li>
+</ul>
+
+<Strong>Content Development Team:</Strong> 
+<ul>
+<li>Tristan Goulden, Staff Scientist AOP</li>
+<li>Sarah Elmendorf, Staff Scientist Data Products</li>
+</ul>
+
+<p>This workshop will providing hands on experience with working hierarchical data formats(HDF5), and lidar data in R. It will also cover spatial data analysis in R. </p>
 
 <a href="http://lwasser.github.io/08-09-2015_NEON_ESA2015/about/">Read Full Abstract Here.</a>
 
 
 <h3>Goals / Objectives</h3>
-After completing this activity, you will:
+After completing this workshop, you will:
 <ol>
-<li>Understand what the Hierarchical Data Format (HDF5) is.</li>
-<li>Understand the key benefits of the HDF5 format, particularly related to big data. </li>
-<li>Understand both the types of data that can be stored in HDF5 and how it can be stored / structured.</li>
+<li>Know what the Hierarchical Data Format (HDF5) is.</li>
+<li>Know How to create and read from HDF5 files in R.</li>
+<li>Know what liDAR data are.</li>
+<li>Know how to work with spatial raster data in R </li>
 </ol>
 
-<h3>What You'll Need</h3>
-<p>Internet access and a working thinking cap.</p>
+You will also learn more about:
+<ol>
+<li>Hyperspectral remote sensing data</li>
+<li>Lidar Data.</li>
+</ol>
+
+<h3>Before the Workshop Please</h3>
+<p>Download All Data Here</p>
+Install Packages using this script. Package list includes:
+* GDAL
+* RHDF5
 
 </div>
 
